@@ -1,5 +1,5 @@
-<h1 align="center">Hola! 👋, Soy Pame</h1>
-<h3 align="center">Desarrolador Front-End </h3>
+<h1 align="center">Hola! 👋,  Soy Pame </h1>
+<h3 align="center">Front-End Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pamesegovia&label=Profile%20views&color=0e75b6&style=flat" alt="pamesegovia" /> </p>
 
