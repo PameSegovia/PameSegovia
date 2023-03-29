@@ -1,7 +1,6 @@
 <h1 align="center">Hola! 👋,  Soy Pame </h1>
 <h3 align="center">Front-End Developer </h3>
-<a href="https://ibb.co/Zm3pT8j"><img src="https://i.ibb.co/wsTF6Wk/2823496.jpg" alt="2823496" border="0"></a>
-
+<a align="center" href="https://ibb.co/2ZxxZsX"><img src="https://i.ibb.co/7kPPkR7/Whats-App-Image-2023-03-29-at-00-22-07.jpg" alt="Whats-App-Image-2023-03-29-at-00-22-07" border="0"></a>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 📫  pamesegal@gmail.com <br/>
