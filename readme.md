@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer </h3>
 <p align="center" <a  href="https://ibb.co/2ZxxZsX"><img src="https://i.ibb.co/7kPPkR7/Whats-App-Image-2023-03-29-at-00-22-07.jpg" alt="Whats-App-Image-2023-03-29-at-00-22-07" border="0"></a> </p>
 
-<h3 align = "center>Sobre Mi</h3> </br>
+<h3 align = "center">Sobre Mi</h3> </br>
 Recientemente comencé a sentirme interesada  con la programación, desarrollando aplicaciones y construyendo sitios web. Estoy entusiasmada por adquirir más experiencia en este campo.Por esta razón, estoy buscando una empresa dispuesta a darme la oportunidad de ubicarme entre sus desarrolladores. Sé que sería un aporte de compromiso y responsabilidad al equipo.
 Actualmente estoy buscando trabajo como Desarrollador Front-End. Aunque también estoy dispuesta a aprender y   trabajar en el Desarrollo Back-End.
 
